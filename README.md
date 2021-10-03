@@ -1,5 +1,6 @@
-Project By A Ryan Fardeen
+Project By : A Ryan Fardeen 
+Task 3 : Payment Gateway Integration
 
-Task : Payment Gateway Integration
+Languages Used for Front-End : HTML, CSS and JAVASCRIPT
 
-Fr
+API Used : RazorPay for Payment
